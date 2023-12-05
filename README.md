@@ -1,1 +1,1 @@
-# **NumericInsight
+# NumericInsight
