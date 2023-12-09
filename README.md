@@ -1,6 +1,6 @@
 # NumericInsight
 
-Este projeto apresenta implementações em Python, utilizando o ambiente Google Colab, de métodos numéricos para a resolução de equações algébricas e transcendentes. Os métodos incluídos são:
+Este projeto apresenta implementações em Python de métodos numéricos para a resolução de equações algébricas e transcendentes. Os métodos incluídos são:
 
 1. **Método da Bissecção**
 2. **Método da Falsa Posição**
