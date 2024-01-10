@@ -18,5 +18,4 @@ Se você quiser contribuir, sinta-se à vontade para enviar sugestões ou melhor
 ## Licença
 
 Este projeto é licenciado sob a [Licença Apache 2.0](LICENSE).
-
 ---
